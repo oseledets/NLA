@@ -7,8 +7,8 @@
         src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
     }
     div.cell{
-        width:800px;
-        margin-left:16% !important;
+        width:80%;
+        margin-left:auto !important;
         margin-right:auto;
     }
     h1 {
@@ -30,9 +30,9 @@
     }	   
     div.text_cell_render{
         font-family: 'Alegreya Sans',Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-        line-height: 135%;
-        font-size: 120%;
-        width:600px;
+        line-height: 1.2;
+        font-size: 160%;
+        width:70%;
         margin-left:auto;
         margin-right:auto;
     }
